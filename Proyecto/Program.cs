@@ -10,7 +10,6 @@ namespace Proyecto
     {
         static void Main(string[] args)
         {
-            //COMENTARIO DE ALGO
         }
     }
 }
